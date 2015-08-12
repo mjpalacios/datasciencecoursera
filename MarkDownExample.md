@@ -3,10 +3,10 @@
 ### Header 3
 
 ##Basic Styles
-*Italic* 
-_Italic_ 
-**Bold** 
-__Bold__ 
+*Italic*  
+_Italic_  
+**Bold**  
+__Bold__  
 
 ##Unordered List
 * Item 1
@@ -24,6 +24,6 @@ __Bold__
 
 ##Manual Line Breaks
 ### End a line with two or more spaces:
-Line 1 
-Line 2 
-Line 3 
+Line 1  
+Line 2  
+Line 3  
